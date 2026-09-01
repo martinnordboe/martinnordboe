@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey you! I'm Martin 👋
 
-<!--
-**martinnordboe/martinnordboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and computer science student with 3 years of professional experience
+in web, Unity, and 3D graphics development at a 3D visualization agency.
+Military background and education in 3D art and Business Economics (Erhvervsøkonomi).
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Main Languages**
+- C# · JavaScript/TypeScript · Rust (learning)
+
+**Secondary Languages**
+- Python · VB (Visual Basic) · PHP
+
+**Web & .NET**
+- React · Next.js · ASP.NET · Blazor · Razor · MVC · Web API · Tailwind · SCSS
+
+**3D & Graphics**
+- Unity · Babylon.js · WebGL · WebGPU · HLSL · GLSL · Blender · 3DS Max · Photoshop · Substance Painter 
+
+**Infrastructure & DevOps**
+- Linux Ubuntu · Docker · NGINX · Microsoft IIS · Git · GitHub Actions · Cloudflare Ecosystem
