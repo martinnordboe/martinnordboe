@@ -19,4 +19,4 @@ Military background and education in 3D art and Business Economics (Erhvervsøko
 - Unity · Babylon.js · WebGL · WebGPU · HLSL · GLSL · Blender · 3DS Max · Photoshop · Substance Painter 
 
 **Infrastructure & DevOps**
-- Linux Ubuntu · Docker · NGINX · Microsoft IIS · Git · GitHub Actions · Cloudflare Ecosystem
+- Linux Ubuntu · Docker · NGINX · Microsoft IIS · Git · Azure · GitHub Actions · Cloudflare Ecosystem
