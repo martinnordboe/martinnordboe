@@ -10,7 +10,7 @@ Military background and education in 3D art and Business Economics (Erhvervsøko
 - C# · JavaScript/TypeScript · Rust (learning)
 
 **Secondary Languages**
-- Python · VB (Visual Basic) · PHP
+- Python · Go(lang) · VB (Visual Basic) · PHP
 
 **Web & .NET**
 - React · Next.js · ASP.NET · Blazor · Razor · MVC · Web API · Tailwind · SCSS
